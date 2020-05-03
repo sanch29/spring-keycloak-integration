@@ -1,4 +1,4 @@
-package com.practice.spring.springkeycloakintegration.model;
+package com.practice.spring.keycloak.client.integration.model;
 
 public class Element {
 	private String elementId;

@@ -1,8 +1,8 @@
-package com.practice.spring.springkeycloakintegration.service;
+package com.practice.spring.keycloak.client.integration.service;
 
 import org.springframework.http.ResponseEntity;
 
-import com.practice.spring.springkeycloakintegration.model.Element;
+import com.practice.spring.keycloak.client.integration.model.Element;
 
 public interface ElementService {
 	
